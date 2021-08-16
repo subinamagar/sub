@@ -81,7 +81,7 @@ class _ScoreHomeState extends State<ScoreHome> {
             width: 80,
           ),
           Row(
-            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
               RaisedButton(
                 color: Colors.red,
